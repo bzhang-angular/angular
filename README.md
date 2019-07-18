@@ -11,3 +11,5 @@
 ### Change host and port
 
 `ng serve --host 0.0.0.0 --port 8080`
+
+### Configure Elasticsearch
